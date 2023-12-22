@@ -49,7 +49,7 @@ Welcome to 'The Ultimate Guide to the Best AI Tools Directories in 2023.' This c
 15. **Favird**: Collaborative AI Tools Resource  
     [Visit Favird](https://favird.com/)
 
-16. **ToolScout**: Free AI Tools for Every Need  
+16. **ToolScout**: Unlock The Power of AI With Us  
     [Visit ToolScout](https://toolscout.ai/)
 
 ## Conclusion
