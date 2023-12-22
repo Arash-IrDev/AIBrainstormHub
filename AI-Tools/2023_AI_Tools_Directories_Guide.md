@@ -25,7 +25,7 @@ Welcome to 'The Ultimate Guide to the Best AI Tools Directories in 2023.' This c
 7. **AiToolMate.com**: Ultimate Collection of AI Tools  
    [Visit AiToolMate](https://www.aitoolmate.com/)
 
-8. **AI Tools Directory - AI Scout**: Enhance Your Productivity  
+8. **AI Scout - AI Tools Directory**: Enhance Your Productivity  
    [Visit AI Scout](https://aiscout.net/)
 
 9. **AI Parabellum**: Innovation Meets AI Exploration  
