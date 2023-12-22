@@ -37,13 +37,13 @@ Welcome to 'The Ultimate Guide to the Best AI Tools Directories in 2023.' This c
 11. **TopTools AI**: Premier AI Tools Directory  
     [Visit TopTools AI](https://www.toptools.ai/)
 
-12. **AI Tools Directory**: Comprehensive AI Solution Finder  
+12. **AI Tools Directory**: Best Curated List of AI Tools  
     [Visit AI Tools Directory](https://aitoolsdirectory.com/)
 
 13. **AI Tool Hunter**: Guide to the Best AI Tools  
     [Visit AI Tool Hunter](https://www.toolhunter.ai/)
 
-14. **AiToolHunt**: Discover the Best AI Tools and Websites  
+14. **AiToolHunt**: Discover the Power of AI Tools  
     [Visit AiToolHunt](https://www.aitoolhunt.com/)
 
 15. **Favird**: Collaborative AI Tools Resource  
