@@ -26,7 +26,7 @@ For more details, check out our [CONTRIBUTING.md](CONTRIBUTING.md) guide.
 
 ## Connect with Us
 
-Join our community on [Telegram](https://t.me/arashbanijamali) or reach out through [Email](mailto:arash.banijamali@gmail.com). Let's make AIBrainstormHub a cornerstone for AI innovation!
+Text me on [Telegram](https://t.me/arashbanijamali) or reach out through [Email](mailto:arash.banijamali@gmail.com). Let's make AIBrainstormHub a cornerstone for AI innovation!
 
 ## License
 
