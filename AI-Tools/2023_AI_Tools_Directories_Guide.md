@@ -28,7 +28,7 @@ Welcome to 'The Ultimate Guide to the Best AI Tools Directories in 2023.' This c
 8. **AI Scout - AI Tools Directory**: Enhance Your Productivity  
    [Visit AI Scout](https://aiscout.net/)
 
-9. **AI Parabellum**: Innovation Meets AI Exploration  
+9. **AI Parabellum**: Your Premier AI Tools Directory  
    [Visit AI Parabellum](https://aiparabellum.com/)
 
 10. **Futurepedia**: Discover What AI Can Do For You  
