@@ -24,14 +24,15 @@ AIBrainstormHub thrives on community contributions! Whether it's adding resource
 
 For more details, check out our [CONTRIBUTING.md](CONTRIBUTING.md) guide.
 
-## License
-
-AIBrainstormHub is released under the [MIT License](LICENSE). This means it's free for personal and commercial use, modification, distribution, and private use, as long as proper credit is given and you don't hold us liable.
-
 ## Connect with Us
 
-Join our community on [Discord](#) / [Slack](#), follow us on [Twitter](#), or reach out through [Email](#). Let's make AIBrainstormHub a cornerstone for AI innovation!
+Join our community on [Telegram](https://t.me/arashbanijamali) or reach out through [Email](mailto:arash.banijamali@gmail.com). Let's make AIBrainstormHub a cornerstone for AI innovation!
+
+## License
+
+AIBrainstormHub is released under the [GNU General Public License v3.0](LICENSE). This ensures that all derivative work will be open source and remain free under the same license.
 
 ---
 
 Embrace the journey of AI exploration with AIBrainstormHub, where every brainstorm leads to new horizons!
+
